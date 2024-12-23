@@ -5,6 +5,9 @@ IP-CIDR,104.236.69.0/24,no-resolve
 
 # cat 
 DOMAIN-KEYWORD,lilico
+DOMAIN-KEYWORD,flowscan
+DOMAIN-KEYWORD,onflow
+
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
