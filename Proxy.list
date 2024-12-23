@@ -7,6 +7,7 @@ IP-CIDR,104.236.69.0/24,no-resolve
 DOMAIN-KEYWORD,lilico
 DOMAIN-KEYWORD,flowscan
 DOMAIN-KEYWORD,onflow
+DOMAIN-KEYWORD,flow
 
 
 # 国外DNS
