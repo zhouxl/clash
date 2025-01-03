@@ -9,7 +9,7 @@ DOMAIN-KEYWORD,flowscan
 DOMAIN-KEYWORD,onflow
 DOMAIN-KEYWORD,flow
 DOMAIN-KEYWORD,walletconnect
-DOMAIN-KEYWORD,instabug
+DOMAIN-SUFFIX,instabug.com
 
 
 # 国外DNS
